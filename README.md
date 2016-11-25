@@ -5,4 +5,11 @@
 
 
 常见设计模式有哪些：
-- [适配器模式](DesignPatterns/adapter.md)
+- [适配器模式 Adapter Pattern](DesignPatterns/adapter.md)
+- [单例模式 Singleton Pattern](DesignPatterns/singleton.md)
+- [备忘录模式 Mememto Pattern](DesignPatterns/mememto.md)
+- [工厂模式 Factory Pattern](DesignPatterns/factory.md)
+- [策略模式]
+- [代理模式]
+- [装饰模式]
+- [观察者模式]
