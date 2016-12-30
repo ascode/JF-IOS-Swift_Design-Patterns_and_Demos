@@ -2,6 +2,25 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <Group
+      location = "group:note"
+      name = "note">
+      <FileRef
+         location = "group:adapter.md">
+      </FileRef>
+      <FileRef
+         location = "group:factory.md">
+      </FileRef>
+      <FileRef
+         location = "group:mememto.md">
+      </FileRef>
+      <FileRef
+         location = "group:singleton.md">
+      </FileRef>
+   </Group>
+   <FileRef
       location = "container:JF-IOS-Swift_Design-Patterns_and_Demos/JF-IOS-Swift_Design-Patterns_and_Demos.xcodeproj">
    </FileRef>
 </Workspace>

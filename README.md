@@ -11,10 +11,10 @@ GOF设计模式分为三种类型，共23种。
 
 
 ## 设计模式详细说明：
-- [适配器模式 Adapter Pattern](DesignPatterns/adapter.md)
-- [单例模式 Singleton Pattern](DesignPatterns/singleton.md)
-- [备忘录模式 Mememto Pattern](DesignPatterns/mememto.md)
-- [工厂模式 Factory Pattern](DesignPatterns/factory.md)
+- [适配器模式 Adapter Pattern](note/adapter.md)
+- [单例模式 Singleton Pattern](note/singleton.md)
+- [备忘录模式 Mememto Pattern](note/mememto.md)
+- [工厂模式 Factory Pattern](note/factory.md)
 - [策略模式]
 - [代理模式]
 - [装饰模式]
